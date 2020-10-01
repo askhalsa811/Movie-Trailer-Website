@@ -1,7 +1,7 @@
 # Movie-Trailer-Website
 
 The server-side code is written in Python and the data is then served to a web page using
-HTML, CSS.
+HTML, CSS , python.
 
 ## What it is and does
 
@@ -15,6 +15,7 @@ repository to your desktop.
 
 Open the text-based interface for your operating system (e.g. the terminal
 window in Linux, the command prompt in Windows).
+for linux kali linux use git clone
 
 Navigate to the project directory and type in the following command:
 
